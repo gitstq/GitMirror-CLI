@@ -1,0 +1,3 @@
+# GitMirror-CLI 依赖
+# 纯Python实现，零第三方依赖
+# 仅需 Python >= 3.8 和 Git
